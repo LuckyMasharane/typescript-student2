@@ -29,4 +29,4 @@ function count(studentInfo){
   return total;
 }
 
-console.log(count(studentInfo));
+console.log("The are " + count(studentInfo) + " youngest student");
